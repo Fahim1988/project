@@ -1,0 +1,11 @@
+Tests/CustomerServicePageTest.class
+Tests/HomePageTest.class
+Tests/DataBaseHomePageTest.class
+Tests/CruisesPageTest.class
+Tests/SignUpPageTest.class
+Tests/HotelsPageTest.class
+Tests/CarsPageTest.class
+Tests/LoginPageTest.class
+Tests/ThingsToDoPageTest.class
+Tests/FlightsPageTest.class
+Tests/DealsPageTest.class
